@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR 0.0.1", "VR 0.0.1.csproj", "{159ED652-DF5D-AA78-FCF2-72851EFC9A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR 0.0.1.Editor", "VR 0.0.1.Editor.csproj", "{606ACF74-CFA8-1C28-BAF0-C3831FB45FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159ED652-DF5D-AA78-FCF2-72851EFC9A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159ED652-DF5D-AA78-FCF2-72851EFC9A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159ED652-DF5D-AA78-FCF2-72851EFC9A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159ED652-DF5D-AA78-FCF2-72851EFC9A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606ACF74-CFA8-1C28-BAF0-C3831FB45FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606ACF74-CFA8-1C28-BAF0-C3831FB45FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606ACF74-CFA8-1C28-BAF0-C3831FB45FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606ACF74-CFA8-1C28-BAF0-C3831FB45FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
